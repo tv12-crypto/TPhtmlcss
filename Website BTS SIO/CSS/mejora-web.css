@@ -1,0 +1,14 @@
+#web .contenedor {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#web article {
+    margin: 15px;
+}
+
+#web img {
+    width: 100%;
+    max-width: 280px;
+}
